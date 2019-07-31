@@ -1,0 +1,9 @@
+---
+applications:
+# Application
+- name: gs-spring-boot
+  instances: 1
+  memory: 1024M
+  path: target/gs-spring-boot-0.1.0.jar
+
+
